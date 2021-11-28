@@ -2,6 +2,11 @@
 
 I am [Rakib Hasan Babu](https://rhbabu.netlify.app/). Currently, I am learning Web Development and preparing myself as a MERN Stack Developer. I have already completed a few projects based on my little knowledge. You can take a look at my pinned repositories.
 
+<p align="center">
+  <img src="assets/img/mern-stack.png" width="350" title="hover text">
+  <img src="asssets/img/mern.jpg" width="350" alt="accessibility text">
+</p>
+
 ### Connect with me:
 
 [<img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=">](https://www.linkedin.com/in/imRHB/)
