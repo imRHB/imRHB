@@ -3,7 +3,7 @@
 I am [Rakib Hasan Babu](https://rhbabu.netlify.app/). Currently, I am learning Web Development and preparing myself as a MERN Stack Developer. I have already completed a few projects based on my little knowledge. You can take a look at my pinned repositories.
 
 <p align="center">
-  <img src="assets/img/mern-cover.jpg" width="auto" alt="MERN cover" title="MERN">
+  <img src="assets/img/mern-cover.png" width="auto" alt="MERN cover" title="MERN">
 </p>
 
 ### Connect with me:
