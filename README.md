@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am [Rakib Hasan Babu](https://rhbabu.netlify.app/). Currently, I am learning Web Development and preparing myself as a MERN Stack Developer. I have already completed a few projects based on my little knowledge. You can take a look at my pinned repositories.
+I am [Rakib Hasan Babu](https://rhbabu.dev/). Currently, I am learning Web Development and preparing myself as a MERN Stack Developer. I have already completed a few projects based on my little knowledge. You can take a look at my pinned repositories.
 
 <p align="center">
   <img src="assets/img/coding.gif" width="auto" alt="Coding Cover" title="Coding">
