@@ -10,8 +10,8 @@ I am [Rakib Hasan Babu](https://rhbabu.dev/). Currently, I am learning Web Devel
 
 [<img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=">](https://www.linkedin.com/in/imRHB/)
 [<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Facebook&color=1877F2&logo=Facebook&logoColor=FFFFFF&label=">](https://www.facebook.com/imRHB/)
-[<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=E4405F&logo=Instagram&logoColor=FFFFFF&label=">](https://twitter.com/imprantu/)
-[<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1DA1F2&logo=Twitter&logoColor=FFFFFF&label=">](https://www.instagram.com/imprantu/)
+[<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=E4405F&logo=Instagram&logoColor=FFFFFF&label=">](https://instagram.com/imprantu/)
+[<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1DA1F2&logo=Twitter&logoColor=FFFFFF&label=">](https://www.twitter.com/imprantu/)
 [<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label=">](https://discord.com/invite/RRfXy4ETdw)
 
 <hr/>
