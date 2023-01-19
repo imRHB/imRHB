@@ -23,7 +23,7 @@ I'm also skilled in <code>TypeScript</code>, <code>React Router</code>, <code>Fi
 
 ### <b>Communication</b>
 
-<small><b>[GitHub](https://github.com/imRHB)</b></small> <code><b>|</b></code> <small><b>[LinkedIn](https://www.linkedin.com/in/imrhb/)</b></small> <code><b>|</b></code> <small><b>[Email](mailto:rakibhasanbabu4@gmail.com)</b></small> <code><b>|</b></code> <small><b>[Discord](https://discord.com/users/543524582662078464)</b></small> <code><b>|</b></code> <small><b>[Instagram](https://www.instagram.com/imprantu/)</b></small>
+<small><b>[GitHub](https://github.com/imRHB)</b></small> <code><b>|</b></code> <small><b>[LinkedIn](https://www.linkedin.com/in/imrhb/)</b></small> <code><b>|</b></code> <small><b>[Email](mailto:rhbabu03@gmail.com)</b></small> <code><b>|</b></code> <small><b>[Discord](https://discord.com/users/543524582662078464)</b></small> <code><b>|</b></code> <small><b>[Instagram](https://www.instagram.com/imprantu/)</b></small>
 
 <hr/>
 
