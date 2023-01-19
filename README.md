@@ -31,17 +31,3 @@ I'm also skilled in <code>TypeScript</code>, <code>React Router</code>, <code>Fi
 
 <small><b>[rhbabu.dev](https://www.rhbabu.dev/)</b></small> <code><b>|</b></code> <small><b>[Showwcase](https://showwcase.rhbabu.dev/)</b></small>
 
-<hr/>
-
-### <b>GitHub Stats</b>
-
-<a href="https://github.com/imRHB">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imRHB&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" alt="Rakib B's Most Used Languages" />
-</a>
-<br />
-<br />
-<a href="https://github.com/imRHB">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=imRHB&show_icons=true&line_width=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Rakib B's GitHub Stats" />
-</a>
-
-<hr/>
