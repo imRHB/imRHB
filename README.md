@@ -1,4 +1,4 @@
-![Cover Photo](./assets/images/cover.png)
+[![Cover Photo](./assets/images/cover.png)](https://www.rhbabu.dev/)
 
 # <b>Hi</b> 👋
 
