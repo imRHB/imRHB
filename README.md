@@ -101,9 +101,9 @@ Self-driven, focused, and dedicated Web Developer with 2 years of experience, in
 
 <br/>
 
-## 💬 <b>COMMUNICATION</b>
+## 💬 <b>CONTACT</b>
 
-[<b>LinkedIn</b>](https://www.linkedin.com/in/imRHB/) <b>|</b> [<b>Email</b>](mailto:rhbabu03@gmail.com) <b>|</b> [<b>Discord</b>](https://discord.com/users/543524582662078464) <b>|</b> [<b>Slack</b> <small>[Office ID]</small>](https://techvzero.slack.com/team/U03FTSBRU2H)
+[<b>LinkedIn</b>](https://www.linkedin.com/in/imRHB/) <b>|</b> [<b>Email</b>](mailto:rhbabu03@gmail.com) <b>|</b> [<b>Discord</b>](https://discord.com/users/543524582662078464)
 
 <br/>
 
