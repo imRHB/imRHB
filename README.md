@@ -5,7 +5,7 @@
 📣 <b>[RAKIB](https://www.rhbabu.dev/)</b>!
 <br/>
 
-Self-driven, focused, and dedicated Web Developer with 2 years of experience, including 1+ years of industrial experience. I am passionate about programming, developing new products, and exploring new technologies. Well-versed in modern web technologies and version control systems. Slow-paced learner, a good team player, and committed to achieving the goal. Determined to deliver quality with an emphasis on excellence.
+Self-driven, focused, and dedicated Web Developer with 2+ years of experience, including 1+ years of industrial experience. I am passionate about programming, developing new products, and exploring new technologies. Well-versed in modern web technologies and version control systems. Slow-paced learner, a good team player, and committed to achieving the goal. Determined to deliver quality with an emphasis on excellence.
 
 <br />
 
@@ -103,7 +103,7 @@ Self-driven, focused, and dedicated Web Developer with 2 years of experience, in
 
 ## 💬 <b>CONTACT</b>
 
-[<b>LinkedIn</b>](https://www.linkedin.com/in/imRHB/) <b>|</b> [<b>Email</b>](mailto:rhbabu03@gmail.com) <b>|</b> [<b>Discord</b>](https://discord.com/users/543524582662078464)
+[<b>Email</b>](mailto:hello@rhbabu.dev) <b>|</b> [<b>LinkedIn</b>](https://www.linkedin.com/in/imRHB) <b>|</b> [<b>Discord</b>](https://discord.com/users/543524582662078464) <b>|</b> [<b>Instagram</b>](https://www.instagram.com/imprantu)
 
 <br/>
 
