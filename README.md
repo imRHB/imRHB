@@ -20,7 +20,6 @@ Self-driven, focused, and dedicated Web Developer with 2+ years of experience, i
 -   <small>JavaScript (ES6)</small>
     <br/>
 -   <small>TypeScript</small>
-<br/>
 </details>
 
 <details open>
