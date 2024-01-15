@@ -1,15 +1,27 @@
-[![Cover Photo](./assets/images/cover.png)](https://www.rhbabu.dev/)
+<p align="center">
+  <a href="https://www.rhbabu.dev" target="_blank">
+    <img width="120rem" height="120rem" src="./assets/images/logo.png">
+  </a>
+</p>
 
-# <b>Hi</b> 👋
+I'm a Software Developer based in Bangladesh, specializing in cutting-edge web and mobile technologies as well as pixel-perfect designs.
 
-📣 <b>[RAKIB](https://www.rhbabu.dev/)</b>!
-<br/>
-
-Self-driven, focused, and dedicated Web Developer with 2+ years of experience, including 1+ years of industrial experience. I am passionate about programming, developing new products, and exploring new technologies. Well-versed in modern web technologies and version control systems. Slow-paced learner, a good team player, and committed to achieving the goal. Determined to deliver quality with an emphasis on excellence.
+Self-driven, focused, and dedicated Web Developer with 2+ years of experience, including 1.5+ years of industrial experience. I am passionate about programming, developing new products, and exploring new technologies. Well-versed in modern web technologies and version control systems. Slow-paced learner, a good team player, and committed to achieving the goal. Determined to deliver quality with an emphasis on excellence.
 
 <br />
 
 ## 🚀 <b>TECH STACK</b>
+
+<details open>
+    <summary>
+        <b>Language</b>
+    </summary>
+
+-   <small>JavaScript (ES6)</small>
+    <br/>
+-   <small>TypeScript</small>
+<br/>
+</details>
 
 <details open>
     <summary>
@@ -42,7 +54,7 @@ Self-driven, focused, and dedicated Web Developer with 2+ years of experience, i
         <b>Cross-Platform Mobile</b>
     </summary>
 
--   <small>React Native</small>
+-   <small>React Native (Expo)</small>
 </details>
 
 <details open>
@@ -58,7 +70,7 @@ Self-driven, focused, and dedicated Web Developer with 2+ years of experience, i
         <b>State Management</b>
     </summary>
 
--   <small>Redux</small>
+-   <small>Redux Toolkit</small>
 </details>
 
 <details open>
@@ -66,7 +78,9 @@ Self-driven, focused, and dedicated Web Developer with 2+ years of experience, i
         <b>User Management</b>
     </summary>
 
--   <small>Firebase Authentication</small>
+-   <small>Next Auth</small>
+    <br/>
+-   <small>Firebase Auth</small>
     <br/>
 -   <small>JWT</small>
 </details>
@@ -101,7 +115,7 @@ Self-driven, focused, and dedicated Web Developer with 2+ years of experience, i
 
 <br/>
 
-## 💬 <b>CONTACT</b>
+## 🗨️ <b>CONTACT</b>
 
 [<b>Email</b>](mailto:hello@rhbabu.dev) <b>|</b> [<b>LinkedIn</b>](https://www.linkedin.com/in/imRHB) <b>|</b> [<b>Discord</b>](https://discord.com/users/543524582662078464) <b>|</b> [<b>Instagram</b>](https://www.instagram.com/imprantu)
 
@@ -109,6 +123,6 @@ Self-driven, focused, and dedicated Web Developer with 2+ years of experience, i
 
 ## 🌐 <b>PORTFOLIO</b>
 
-<b>[rhbabu.dev](https://www.rhbabu.dev/)</b> <b>|</b> <b>[Showwcase](https://showwcase.rhbabu.dev/)</b>
+[<b>rhbabu.dev</b>](https://www.rhbabu.dev/) <b>|</b> [<b>Upwork</b>](https://www.upwork.com/freelancers/~0192f3e567e50f683b)
 
 <br/>
