@@ -6,7 +6,7 @@
 
 I'm a Software Developer based in Bangladesh, specializing in cutting-edge web and mobile technologies as well as pixel-perfect designs.
 
-Self-driven, focused, and dedicated Web Developer with 2+ years of experience, including 1.5+ years of industrial experience. I am passionate about programming, developing new products, and exploring new technologies. Well-versed in modern web technologies and version control systems. Slow-paced learner, a good team player, and committed to achieving the goal. Determined to deliver quality with an emphasis on excellence.
+Self-driven, focused, and dedicated Web Developer with 3 years of experience, including nearly 2 years of industrial experience. I am passionate about programming, developing new products, and exploring new technologies. Well-versed in modern web technologies and version control systems. Slow-paced learner, a good team player, and committed to achieving the goal. Determined to deliver quality with an emphasis on excellence.
 
 <br />
 
@@ -14,33 +14,33 @@ Self-driven, focused, and dedicated Web Developer with 2+ years of experience, i
 
 <details open>
     <summary>
-        <b>Language</b>
+        <b>Languages</b>
     </summary>
 
--   <small>JavaScript (ES6)</small>
+-   <small>JavaScript (ES6+)</small>
     <br/>
 -   <small>TypeScript</small>
 </details>
 
 <details open>
     <summary>
-        <b>Front-End</b>
+        <b>Front End</b>
     </summary>
 
--   <small>JavaScript (ES6)</small>
+-   <small>HTML5</small>
     <br/>
--   <small>TypeScript</small>
+-   <small>CSS3</small>
     <br/>
 -   <small>React JS</small>
     <br/>
 -   <small>Next JS</small>
     <br/>
--   <small>Tailwind</small>
+-   <small>Tailwind CSS</small>
 </details>
 
 <details open>
     <summary>
-        <b>Back-End</b>
+        <b>Back End</b>
     </summary>
 
 -   <small>Node JS</small>
@@ -50,7 +50,7 @@ Self-driven, focused, and dedicated Web Developer with 2+ years of experience, i
 
 <details open>
     <summary>
-        <b>Cross-Platform Mobile</b>
+        <b>Cross-Platform</b>
     </summary>
 
 -   <small>React Native (Expo)</small>
@@ -79,6 +79,8 @@ Self-driven, focused, and dedicated Web Developer with 2+ years of experience, i
 
 -   <small>Next Auth</small>
     <br/>
+-   <small>Clerk Auth</small>
+    <br/>
 -   <small>Firebase Auth</small>
     <br/>
 -   <small>JWT</small>
@@ -89,7 +91,7 @@ Self-driven, focused, and dedicated Web Developer with 2+ years of experience, i
         <b>JavaScript Components</b>
     </summary>
 
--   <small>React Router DOM</small>
+-   <small>React Router</small>
 </details>
 
 <details open>
@@ -122,6 +124,6 @@ Self-driven, focused, and dedicated Web Developer with 2+ years of experience, i
 
 ## 🌐 <b>PORTFOLIO</b>
 
-[<b>rhbabu.dev</b>](https://www.rhbabu.dev/) <b>|</b> [<b>Upwork</b>](https://www.upwork.com/freelancers/~0192f3e567e50f683b)
+[<b>rhbabu.dev</b>](https://www.rhbabu.dev/)
 
 <br/>
