@@ -1,129 +1,53 @@
-<p align="center">
-  <a href="https://www.rhbabu.dev" target="_blank">
-    <img width="120rem" height="120rem" src="./assets/images/logo.png">
+<div align="center">
+  <a href="https://rhbabu.dev" target="_blank">
+    <img src="./assets/images/logo.png" alt="Logo" width="100" height="100">
   </a>
-</p>
 
-I'm a Software Developer based in Bangladesh, specializing in cutting-edge web and mobile technologies as well as pixel-perfect designs.
+  <h1 align="center">Rakib Hasan Babu</h1>
 
-Self-driven, focused, and dedicated Web Developer with 3 years of experience, including nearly 2 years of industrial experience. I am passionate about programming, developing new products, and exploring new technologies. Well-versed in modern web technologies and version control systems. Slow-paced learner, a good team player, and committed to achieving the goal. Determined to deliver quality with an emphasis on excellence.
+  <p align="center">
+    <strong>Full-Stack Developer</strong>
+  </p>
 
-<br />
+  <p align="center">
+    I build accessible, pixel-perfect, and performant web applications. Passionate about creating seamless user experiences and robust backend systems.
+  </p>
 
-## 🚀 <b>TECH STACK</b>
+  <p align="center">
+    <a href="mailto:rhbabu3@gmail.com">Email</a> •
+    <a href="https://linkedin.com/in/imRHB">LinkedIn</a> •
+    <a href="https://rhbabu.dev">Portfolio</a>
+  </p>
+</div>
 
-<details open>
-    <summary>
-        <b>Languages</b>
-    </summary>
+---
 
--   <small>JavaScript (ES6+)</small>
-    <br/>
--   <small>TypeScript</small>
-</details>
+### 🛠️ **Technical Skills**
 
-<details open>
-    <summary>
-        <b>Front End</b>
-    </summary>
+| Category      | Skills                                                                      |
+| :------------ | :-------------------------------------------------------------------------- |
+| **Languages** | JavaScript (ES6+), TypeScript                                               |
+| **Frontend**  | React, Next.js, Tailwind CSS, HTML5, CSS3                                   |
+| **Backend**   | Node.js, Express.js, RESTful APIs                                           |
+| **Database**  | MongoDB, Mongoose                                                           |
+| **Ecosystem** | Zustand, TanStack Query, React Router, Shadcn UI, Recharts, Chart.js, Redis |
+| **Tools**     | Git, VS Code, Postman                                                       |
 
--   <small>HTML5</small>
-    <br/>
--   <small>CSS3</small>
-    <br/>
--   <small>React JS</small>
-    <br/>
--   <small>Next JS</small>
-    <br/>
--   <small>Tailwind CSS</small>
-</details>
+---
 
-<details open>
-    <summary>
-        <b>Back End</b>
-    </summary>
+### 💼 **Experience**
 
--   <small>Node JS</small>
-    <br/>
--   <small>Express JS</small>
-</details>
+**Full-Stack Developer** | Standard Insights
+<br>_Jul 2024 - Jan 2026_ • New York, USA (Remote)
 
-<details open>
-    <summary>
-        <b>Cross-Platform</b>
-    </summary>
+**Junior Software Engineer** | TechVZero
+<br>_May 2022 - Feb 2024_ • New Delhi, India (Remote)
 
--   <small>React Native (Expo)</small>
-</details>
+---
 
-<details open>
-    <summary>
-        <b>Database</b>
-    </summary>
+### 🚀 **Featured Projects**
 
--   <small>MongoDB</small>
-</details>
-
-<details open>
-    <summary>
-        <b>State Management</b>
-    </summary>
-
--   <small>Redux Toolkit</small>
-</details>
-
-<details open>
-    <summary>
-        <b>User Management</b>
-    </summary>
-
--   <small>Next Auth</small>
-    <br/>
--   <small>Clerk Auth</small>
-    <br/>
--   <small>Firebase Auth</small>
-    <br/>
--   <small>JWT</small>
-</details>
-
-<details open>
-    <summary>
-        <b>JavaScript Components</b>
-    </summary>
-
--   <small>React Router</small>
-</details>
-
-<details open>
-    <summary>
-        <b>Version Control</b>
-    </summary>
-
--   <small>Git</small>
-    <br/>
--   <small>GitHub</small>
-</details>
-
-<br/>
-
-## 🧊 <b>PROJECTS</b>
-
-|     | NAME                                           | GITHUB <small>[CLIENT]</small>                                          | GITHUB <small>[SERVER]</small>                                          | TYPE       | COLLABORATION |
-| --- | ---------------------------------------------- | ----------------------------------------------------------------------- | ----------------------------------------------------------------------- | ---------- | ------------- |
-| 1   | [ElectroHub](https://electro-hub-shop.web.app) | [imRHB/electro-hub-client](https://github.com/imRHB/electro-hub-client) | [imRHB/electro-hub-server](https://github.com/imRHB/electro-hub-server) | Full-Stack | Team          |
-| 2   | [Eat Cake](https://eat-cake-shop.web.app/)     | [imRHB/eat-cake-client](https://github.com/imRHB/eat-cake-client)       | [imRHB/eat-cake-server](https://github.com/imRHB/eat-cake-server)       | Full-Stack | Solo          |
-| 3   | [Smart Shop](https://smart-shop-pos.web.app/)  | [imRHB/smart-shop-client](https://github.com/imRHB/smart-shop-client)   | [imRHB/smart-shop-server](https://github.com/imRHB/smart-shop-server)   | Full-Stack | Team          |
-
-<br/>
-
-## 🗨️ <b>CONTACT</b>
-
-[<b>Email</b>](mailto:hello@rhbabu.dev) <b>|</b> [<b>LinkedIn</b>](https://www.linkedin.com/in/imRHB) <b>|</b> [<b>Discord</b>](https://discord.com/users/543524582662078464) <b>|</b> [<b>Instagram</b>](https://www.instagram.com/imprantu)
-
-<br/>
-
-## 🌐 <b>PORTFOLIO</b>
-
-[<b>rhbabu.dev</b>](https://www.rhbabu.dev/)
-
-<br/>
+**Quboolify** — _Matrimony Platform_
+<br>`Next.js` • `TypeScript` • `Tailwind CSS` • `Express.js` • `Mongoose` • `Redis` • `TanStack Query`
+<br>A modern, privacy-focused matrimony platform built for the Bengali community.
+<br>[Live Site](https://quboolify.com?ref=github.com)
