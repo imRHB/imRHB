@@ -31,7 +31,7 @@
 | **Backend**   | Node.js, Express.js, RESTful APIs                                           |
 | **Database**  | MongoDB, Mongoose                                                           |
 | **Ecosystem** | Zustand, TanStack Query, React Router, Shadcn UI, Recharts, Chart.js, Redis |
-| **Tools**     | Git, VS Code, Postman                                                       |
+| **Tools**     | Git, VS Code                                                       |
 
 ---
 
