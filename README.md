@@ -10,44 +10,63 @@
   </p>
 
   <p align="center">
-    I build accessible, pixel-perfect, and performant web applications. Passionate about creating seamless user experiences and robust backend systems.
+    I have <strong>3+ years of experience</strong> building accessible, pixel-perfect, and performant web applications. Passionate about creating seamless user experiences and robust backend systems.
   </p>
 
   <p align="center">
     <a href="mailto:rhbabu3@gmail.com">Email</a> •
-    <a href="https://linkedin.com/in/imRHB">LinkedIn</a> •
-    <a href="https://rhbabu.dev">Portfolio</a>
+    <a href="https://drive.google.com/file/d/1XvBExHKRmC8cMzoAH7fEXffRv8BHNxvn/view?usp=sharing" target="_blank">Resume</a> •
+    <a href="https://linkedin.com/in/imRHB" target="_blank">LinkedIn</a> •
+    <a href="https://rhbabu.dev" target="_blank">Portfolio</a>
   </p>
 </div>
 
 ---
 
-### 🛠️ **Technical Skills**
+### 💼 **Experience**
 
-| Category      | Skills                                                                      |
-| :------------ | :-------------------------------------------------------------------------- |
-| **Languages** | JavaScript (ES6+), TypeScript                                               |
-| **Frontend**  | React, Next.js, Tailwind CSS, HTML5, CSS3                                   |
-| **Backend**   | Node.js, Express.js, RESTful APIs                                           |
-| **Database**  | MongoDB, Mongoose                                                           |
-| **Ecosystem** | Zustand, TanStack Query, React Router, Shadcn UI, Recharts, Chart.js, Redis |
-| **Tools**     | Git, VS Code                                                       |
+#### **Full-Stack Developer**
+
+**[Standard Insights](https://standard-insights.com)**<br>
+Jul 2024 - Jan 2026 • New York, USA (Remote)
+
+- Developed a **matrix-type survey question feature** with dynamic row and column configuration, expanding supported question types by 7% and increasing survey flexibility.
+- Architected high-security **public reporting and qualitative review systems** with expert feedback workflows, leveraging **AI-driven sentiment analysis** to automate data synthesis.
+- Optimized frontend scalability by implementing **modular state management patterns**, effectively reducing redundant re-renders and improving overall application latency.
+
+`TypeScript` • `Next.js` • `Node.js` • `Express.js` • `MongoDB` • `Mongoose` • `Tailwind CSS` • `shadcn/ui` • `Redis` • `Zustand` • `TanStack Query` • `Recharts` • `Chart.js` • `OpenAI` • `Gemini API`
+
+#### **Junior Software Engineer**
+
+**[TechVZero](https://techvzero.com)**<br>
+May 2022 - Feb 2024 • New Delhi, India (Remote)
+
+- Developed internal **dashboards and data visualization tools** using React and Grafana to streamline operational monitoring and data-driven decision-making.
+- Engineered **self-service analytics features** allowing users to query databases and visualize metrics, significantly improving accessibility to system insights.
+- Executed in-depth **technology research and feasibility analysis** for emerging tools and frameworks, providing strategic recommendations for product development.
+
+`JavaScript` • `React` • `Node.js` • `Grafana` • `Tailwind CSS`
 
 ---
 
-### 💼 **Experience**
+### 🛠️ **Technical Skills**
 
-**Full-Stack Developer** | Standard Insights
-<br>_Jul 2024 - Jan 2026_ • New York, USA (Remote)
-
-**Junior Software Engineer** | TechVZero
-<br>_May 2022 - Feb 2024_ • New Delhi, India (Remote)
+| Category      | Skills                                           |
+| :------------ | :----------------------------------------------- |
+| **Languages** | JavaScript (ES6+), TypeScript                    |
+| **Frontend**  | React, Next.js, Tailwind CSS, HTML5, CSS3        |
+| **Backend**   | Node.js, Express.js, Redis, RESTful APIs         |
+| **Database**  | MongoDB, Mongoose                                |
+| **Ecosystem** | Zustand, TanStack Query, React Router, Shadcn UI |
+| **Tools**     | Git, VS Code, Chrome DevTools                    |
 
 ---
 
 ### 🚀 **Featured Projects**
 
-**Quboolify** — _Matrimony Platform_
-<br>`Next.js` • `TypeScript` • `Tailwind CSS` • `Express.js` • `Mongoose` • `Redis` • `TanStack Query`
-<br>A modern, privacy-focused matrimony platform built for the Bengali community.
-<br>[Live Site](https://quboolify.com?ref=github.com)
+#### **[Quboolify](https://quboolify.com)**
+
+Oct 2025 - Feb 2026<br>
+A modern, privacy-focused matrimony platform tailored for the **Muslim community**, enabling secure and meaningful connections.
+
+`TypeScript` • `Next.js` • `Node.js` • `Express.js` • `MongoDB` • `Mongoose` • `Tailwind CSS` • `shadcn/ui` • `Redis` • `Zustand` • `TanStack Query` • `Better Auth`
